@@ -1,0 +1,27 @@
+Next comes a few of the most popular types of variable stars:
+
+1. Cepheids: These stars have regular pulsations with periods from 1 to 100 days and amplitudes from 0.1 to 2 stellar magnitudes. Their light curves have a symmetrical shape, and the spectral classes are F and G.
+
+2. Variable stars of the type RR Lyra: These stars have regular pulsations with periods from 0.2 to 1 day and amplitudes from 0.3 to 2 stellar magnitudes. Their light curves have a symmetrical or sawtooth shape, and the spectral classes are A and F.
+
+3. Mirids: These stars have irregular pulsations with periods from 80 to 1000 days and amplitudes from 2.5 to 11 stellar magnitudes. Their light curves have an asymmetric shape, and the spectral classes are M, S and C.
+
+4. Eclipsing binary systems: These stars consist of two stars that orbit around a common center of mass and periodically eclipse each other. The periods of the eclipse can be from several hours to several days, and the amplitudes are from 0.1 to 2 stellar magnitudes. The shape of the light curve depends on the orbital inclination and the relative sizes of the stars.
+
+5. W Virginis variables: These stars are pulsating variables with periods from 10 to 20 days and amplitudes from 0.3 to 1.2 stellar magnitudes. Their light curves have a symmetrical shape, and the spectral classes are F and G.
+
+6. RV Tauri variables: These stars are pulsating variables with periods from 30 to 150 days and amplitudes from 3 to 5 stellar magnitudes. Their light curves have double maxima and minima, and the spectral classes are F and G.
+
+7. Delta Scuti variables: These stars are pulsating variables with periods from 0.01 to 0.2 days and amplitudes of less than 0.1 magnitude. Their light curves have a symmetrical shape, and the spectral classes are A and F.
+
+8. Gamma Doradus variables: These stars are pulsating variables with periods from 0.4 to 3 days and amplitudes of less than 0.1 magnitude. Their light curves have a symmetrical shape, and the spectral classes are F.
+
+9. Luminous Blue Variables (LBV): These stars are massive supergiants with irregular brightness variations and amplitudes from 1 to 2.5 stellar magnitudes. Their light curves may be irregular or have long periods of stability, and the spectral classes are O and B.
+
+10. R Coronae Borealis variables: These stars are supergiants with irregular brightness drops by several stellar magnitudes. Their light curves have long periods of stability interrupted by sharp drops in brightness, and the spectral classes are F and G.
+
+11. T Tauri variables: These stars are young stars with irregular brightness variations and amplitudes from 1 to 5 stellar magnitudes. Their light curves may be irregular or have rapid spikes and drops, and the spectral classes are F, G, K and M.
+
+12. FU Orionis variables: These stars are young stars with rare but sharp bursts of brightness by several stellar magnitudes. Their light curves have long periods of stability interrupted by sharp bursts of brightness, and the spectral classes are F and G.
+
+13. SX Phoenicis variables: These stars are pulsating variables with periods from 0.03 to 0.08 days and amplitudes from 0.7 to 1.2 stellar magnitudes. Their light curves have a symmetrical shape, and the spectral classes are A and F.

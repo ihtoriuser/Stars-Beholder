@@ -1,0 +1,6 @@
+numpy 
+pandas 
+astroquery
+PyQt5 
+matplotlib
+Vizier
